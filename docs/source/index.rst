@@ -3,11 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Starter Scratch Basic
+Starter Microbit Basic
 =======================================
 
 
- Starter Scratch Basic
+ Starter Microbit Basic
 
       written by sean base on following books
 
